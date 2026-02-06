@@ -20,5 +20,5 @@ Code for the prototype shooter in development by FRC team 6934.
 ### Motors
 - Kraken X44
 - Kraken X60
--# The X60 can be swapped out for any other form-factor-equivalent motor running TalonFX software, such as a Falcon.
+(The X60 can be swapped out for any other form-factor-equivalent motor running TalonFX software, such as a Falcon.)
 
